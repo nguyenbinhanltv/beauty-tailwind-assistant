@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import alanBtn from "@alan-ai/alan-sdk-web";
 
 @Component({
-  selector: 'app-root',
+  selector: 'bta-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
